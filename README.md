@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shambel! 👋
 
-<!--
-**shambel-data/shambel-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Student | Aspiring Data Scientist | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in programming, data science, machine learning, and artificial intelligence. I enjoy building practical projects to improve my technical skills and solve real-world problems.
+
+### 🛠️ Technical Interests
+- Python Programming
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Analysis
+- Streamlit Application Development
+
+### 🚀 Featured Projects
+
+**1. Telecom Customer Churn Prediction**
+
+Machine learning project using Random Forest to predict customer churn, deployed with Streamlit.
+
+**2. ASL Sign Language Classification**
+
+Image classification project using a Convolutional Neural Network (CNN) to recognize American Sign Language alphabet signs.
+
+**3. Traffic Sign Recognition**
+
+Computer vision project using CNN to classify traffic signs.
+
+### 🎯 Current Goals
+- Improve my Python and machine learning skills.
+- Build more practical AI projects.
+- Learn model deployment and real-world applications.
+- Develop a strong data science portfolio.
+
+### 📫 Connect with Me
+- GitHub: [@shambel-data](https://github.com/shambel-data)
