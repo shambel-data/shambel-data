@@ -35,3 +35,10 @@ A CNN-based image classification project that recognizes American Sign Language 
 
 ### 📫 Connect with Me
 - GitHub: [@shambel-data](https://github.com/shambel-data)
+
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shambel-data&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shambel-data&layout=compact&theme=tokyonight)
