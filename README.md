@@ -18,17 +18,14 @@ I'm interested in programming, data science, machine learning, and artificial in
 
 ### 🚀 Featured Projects
 
-**1. Telecom Customer Churn Prediction**
+**1. [Telecom Customer Churn Prediction](https://github.com/shambel-data/Telecom-Customer-Churn-Prediction)**
 
-Machine learning project using Random Forest to predict customer churn, deployed with Streamlit.
+A machine learning project using Random Forest to predict telecom customer churn, deployed with Streamlit.
 
-**2. ASL Sign Language Classification**
+**2. [ASL Sign Language Classification](https://github.com/shambel-data)**
 
-Image classification project using a Convolutional Neural Network (CNN) to recognize American Sign Language alphabet signs.
+A CNN-based image classification project that recognizes American Sign Language alphabet signs.
 
-**3. Traffic Sign Recognition**
-
-Computer vision project using CNN to classify traffic signs.
 
 ### 🎯 Current Goals
 - Improve my Python and machine learning skills.
